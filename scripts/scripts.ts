@@ -1,0 +1,1 @@
+const prueba1 = console.log('Hola a todos mi gente bella')
